@@ -1,0 +1,6 @@
+res = 320x180
+decimation filter mag = 2.0 (up to 5)
+
+assuming all images under 50 kb
+	take 20 mil pictures
+	

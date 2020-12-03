@@ -1,0 +1,14 @@
+This week:
+1. Talk with Joewie to get Raspberry Pi (3+)
+Turn on, classify what it is looking at as a background
+Do some basic setup and install packages.
+Get a USB.
+
+Next week:
+2. Start coding and test the camera.
+Try take pictures with webcam by commmands.
+
+In March:
+3. Write the code about Recognition and Detecting Motion.
+4. Collect data for 2 weeks, upload to the cloud.
+5. Recognize the pictures and divide into each items.
